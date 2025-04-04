@@ -14,7 +14,9 @@ On my GitHub repository, you will find **my projects at 42 school** .
 
 **skills**
 
-![apercu](https://github.com/souelgha/images/blob/main/skills.png)
+![apercu](https://github.com/Thebelovedcookie/images/blob/main/skills.png)
+![apercu](https://github.com/Thebelovedcookie/images/blob/main/cursus.png)
+
 
 **COMMUN CORE PROJECTS**
 
