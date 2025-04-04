@@ -10,7 +10,7 @@
 
 On my GitHub repository, you will find **my projects at 42 school** .  
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBelovedcookie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 **skills**
 
