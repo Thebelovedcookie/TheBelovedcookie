@@ -14,9 +14,6 @@ On my GitHub repository, you will find **my projects at 42 school** .
 **My Common Core Projects**
 [![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=Thebelovedcookie&layout=compact)](https://github.com/Thebelovedcookie)
 
-![Screenshot from 2025-04-04 22-47-29](https://github.com/user-attachments/assets/2150a287-8bb7-48ed-a4c2-ce034636e94c)
-
-
 
 **COMMUN CORE PROJECTS**
 
