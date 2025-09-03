@@ -2,8 +2,8 @@
 
 - 🏩 I'm studying at 42 school in Paris since nov 2023.
 - 🌱 I have finished all Commun Core projects (C/C++/Docker).
-- 🌱 I’m currently learning react/vite, node.js/express.
-- 👯 I'm currently looking for internship for (4-6 months).
+- 🌱 I’m currently learning android studio / java.
+- 👯 I'm currently looking for internship for 6 months.
 - 📫 How to reach me : marianne.picard.88@live.fr
 
 
